@@ -1,3 +1,19 @@
+
+# worked with 
+Veronica
+https://github.com/DevManCryBB
+Anna
+https://github.com/mercurybased
+DJ
+https://github.com/iam-dj
+Ashleigh
+https://github.com/Ashlhc
+
+Received TA assistance from Henry
+
+
+![image](https://user-images.githubusercontent.com/43556891/229022999-7fda7b7d-b799-4fad-9b2b-e801f5f1429f.png)
+
 # 03 JavaScript: Password Generator
 
 ## Your Task
