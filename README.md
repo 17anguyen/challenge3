@@ -15,6 +15,10 @@ Received TA assistance from Henry
 ![image](https://user-images.githubusercontent.com/43556891/229022999-7fda7b7d-b799-4fad-9b2b-e801f5f1429f.png)
 https://17anguyen.github.io/password-generator/
 
+# resources used
+http://www.java2s.com/Tutorial/JavaScript/0060__Statement/Useifelsetocheckthereturningvaluefromaconfirmdialog.htm
+https://stackoverflow.com/questions/12073352/use-confirm-as-a-condition-to-if
+
 # 03 JavaScript: Password Generator
 
 ## Your Task
