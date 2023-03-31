@@ -48,6 +48,7 @@ function generatePassword() {
     alert("Can you read? Select a number between 8 and 128")
     generatePassword();
   } else {
+    alert("testing if this works");
     // lowerCase
     var userLowerCase = confirm("Do you want lower case letters?");
     if (userLowerCase == true) {
@@ -80,16 +81,18 @@ function generatePassword() {
     } else {
       alert("I want to cry I am so tired")
     }
-    console.log(availChars)
+   
 
 
     // build password
     for (let i = 0; i < pwdLength; i++) {
       var randomInput = Math.floor(Math.random() * availChars.length);
-      var randomCharacters = availChars[randomInput]
+      var password = availChars[randomInput]
 
-    }
-  }
+    }console.log(availChars);
+    console.log(password);
+  } 
+
   return password
 }
 
