@@ -13,6 +13,7 @@ Received TA assistance from Henry
 
 
 ![image](https://user-images.githubusercontent.com/43556891/229022999-7fda7b7d-b799-4fad-9b2b-e801f5f1429f.png)
+https://17anguyen.github.io/challenge3/
 
 # 03 JavaScript: Password Generator
 
