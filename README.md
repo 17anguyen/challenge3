@@ -1,4 +1,4 @@
-# 03 JavaScript: Password Generator
+# Password Generator
 
 A password generator using Java Script and prompt alerts and taking in user input 
 
